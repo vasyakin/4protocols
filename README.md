@@ -14,7 +14,7 @@
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/vasyakin/4protocols/main/4p.sh)
-
+```bash
 
 Рекомендация: Для тех, кто ищет максимальную простоту и легкость, ознакомьтесь с проектом ArgoSBX.
 
